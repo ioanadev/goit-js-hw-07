@@ -22,3 +22,20 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+li{
+  list-style-type: none;
+}
+a {
+  font-weight: bold;
+  text-decoration:solid;
+  color:#212121;
+  
+
+ }
+a:hover {
+  color:darkslateblue
+} 
+.ul-list{
+  margin-top: 5%;
+  margin-right: 10%;
+}
